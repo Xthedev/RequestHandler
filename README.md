@@ -21,7 +21,7 @@ npm install pushmebyx
 ```bash
 
 //REACT| REACTNATIVE| ANGULAR
-import { RequestHandler } from './RequestHandler';
+import { RequestHandler } from 'pushmebyx';
 
 
 
