@@ -18,7 +18,17 @@ npm install pushmebyx
 
 ```
 
+```bash
 
+//REACT| REACTNATIVE| ANGULAR
+import { RequestHandler } from './RequestHandler';
+
+
+
+
+
+
+```
 ## USAGE
 Making A SIMPLE POST/GET REQUEST  ONLY INVOLVES THE FOLLOWING
 
