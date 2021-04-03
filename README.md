@@ -28,13 +28,19 @@ Making A SIMPLE POST/GET REQUEST  ONLY INVOLVES THE FOLLOWING
 
 //INCLUDE ALL DATA YOU WANT TO UPLOAD, supports FILES
 
-
+let mypicture= document.querySelector('#mypicture');
 
 
 
 const data = new FormData();
 data.append('firstname', "Sensei");
 data.append('lastname', "X");
+
+
+//FOR FILE UPLOADS
+
+YOU ARE EXPECTED TO PROVIDE THE KEY | FILE OBJECT| FILE NAME
+data.append('file', mypicture.files[0], 'mypicture.jpg');
 
 
 
