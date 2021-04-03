@@ -14,7 +14,7 @@ There are some global dependencies you need to set up.
 ## Getting Started
 
 ```bash
-npm install requesthandlerbyx
+npm install pushmebyx
 
 ```
 
