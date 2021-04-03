@@ -1,6 +1,6 @@
 {
   "name": "pushmebyx",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "make simple http requests to the server without hassles",
   "main": "index.js",
   "scripts": {
