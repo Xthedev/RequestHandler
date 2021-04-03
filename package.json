@@ -1,5 +1,5 @@
 {
-  "name": "requesthandler",
+  "name": "pushmebyx",
   "version": "1.0.0",
   "description": "make simple http requests to the server without hassles",
   "main": "index.js",
@@ -11,5 +11,8 @@
     "npm"
   ],
   "author": "Austin X Chibuike",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }
