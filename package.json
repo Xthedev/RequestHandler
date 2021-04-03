@@ -1,0 +1,15 @@
+{
+  "name": "requesthandler",
+  "version": "1.0.0",
+  "description": "make simple http requests to the server without hassles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Austin X Chibuike",
+  "license": "ISC"
+}
