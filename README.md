@@ -23,6 +23,15 @@ npm install requesthandlerbyx
 Making A SIMPLE POST/GET REQUEST  ONLY INVOLVES THE FOLLOWING
 
 ```bash
+
+
+
+//INCLUDE ALL DATA YOU WANT TO UPLOAD, supports FILES
+
+
+
+
+
 const data = new FormData();
 data.append('firstname', "Sensei");
 data.append('lastname', "X");
@@ -31,9 +40,21 @@ data.append('lastname', "X");
 
 
  //SIMPLY PUT IN THE URL, THE DATA VARIABLE ABOVE AND METHOD (POST OR GET)
+
+
+
+
 RequestHandler('https://exampleapi.com/createuser',data,"POST",function(data){
+
+
+
+
     console.log(data); 
     //DO WHATEVER YOU WANT WITH THE DATA
+
+
+
+
         //IF DATA IS JSON
      let response = JSON.parse(data);
         console.log(response);
