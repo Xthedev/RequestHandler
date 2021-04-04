@@ -46,7 +46,7 @@ export const RequestHandler=(url,data,type,callback)=>{
           const xhr = new XMLHttpRequest();
 
           xhr.open(type, URL);
-          xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+          xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
 
           xhr.send(JSON.stringify(data));
           xhr.onreadystatechange = e => {
