@@ -9,7 +9,7 @@
 There are some global dependencies you need to set up.
 
 - [Node.js](https://nodejs.org/)
-- [For Vanilla JS visit the github page and open the dist folder Check On The Instructions File](https://github.com/Xthedev/RequestHandler)
+- [For Vanilla JS Click Here,visit the github page and open the dist folder Check On The Instructions File](https://github.com/Xthedev/RequestHandler)
 
 ## Getting Started
 
@@ -20,13 +20,14 @@ npm install pushmebyx
 
 ```bash
 
-//REACT| REACTNATIVE| ANGULAR
+//REACT| REACTNATIVE| ANGULAR | VUE | SVELTE
 
 //For FORMDATA POST/GET
 import { RequestHandler } from 'pushmebyx';
 
 
 //FOR JSON POST/GET
+import { RequestHandlerJSON } from 'pushmebyx';
 
 
 
@@ -34,7 +35,7 @@ import { RequestHandler } from 'pushmebyx';
 
 ```
 ## USAGE
-## WORKS WITH REACT | REACT NATIVE AND ANGULARJS & BEYOND
+## WORKS WITH REACT | REACT NATIVE |ANGULARJS |VUE | SVELTE & BEYOND
 
 SEND DATA AS FORM DATA OR AS JSON POST 
 
