@@ -2,52 +2,25 @@
 
 ## Built With
 
-- [Node.js](https://nodejs.org/)
+- JAVASCRIPT
 
-## Prerequisites
-
-There are some global dependencies you need to set up.
-
-- [Node.js](https://nodejs.org/)
-- [For Vanilla JS visit the github page](https://nodejs.org/)
 
 ## Getting Started
 
 ```bash
-npm install pushmebyx
+//SIMPLY IMPORT THE pushmebyx.js file in dist folder into your project
+
+<script src="pushmebyx.js"> </script>
 
 ```
 
 ```bash
 
-//REACT| REACTNATIVE| ANGULAR
 
 //For FORMDATA POST/GET
-import { RequestHandler } from 'pushmebyx';
-
-
-//FOR JSON POST/GET
-
-
-
-
-
-```
-## USAGE
-## WORKS WITH REACT | REACT NATIVE AND ANGULARJS & BEYOND
-
-SEND DATA AS FORM DATA OR AS JSON POST 
-
-
-
 
 ## A SIMPLE WORKING EXAMPLE WITH A FORM DATA POST REQUEST
 ```bash
-
-
-
-
-
 
 
 const data = new FormData();
