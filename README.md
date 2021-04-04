@@ -9,7 +9,7 @@
 There are some global dependencies you need to set up.
 
 - [Node.js](https://nodejs.org/)
-- [For Vanilla JS visit the github page](https://nodejs.org/)
+- [For Vanilla JS visit the github page and open the dist folder Check On The Instructions File](https://github.com/Xthedev/RequestHandler)
 
 ## Getting Started
 
